@@ -30,15 +30,15 @@ Welcome to my personal portfolio website repository! This project showcases my w
    ```bash
    open index.html
 
-#Customization
+# Customization
 To personalize the portfolio with your own information:
 
 Open index.html and replace the placeholder content with your own details.
 Customize the styles in styles.css to match your preferences.
 Update the projects and images in the appropriate sections.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
 
-#License
+# License
 This project is licensed under the MIT License 
