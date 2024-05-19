@@ -22,4 +22,7 @@ Welcome to my personal portfolio website repository! This project showcases my w
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/personal-portfolio.git
+   git clone https://github.com/Adithiyaa22/portfolio.git
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
