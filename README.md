@@ -2,11 +2,11 @@
 
 Welcome to my personal portfolio website repository! This project showcases my work, skills, and experiences in web development.
 
-![Portfolio Screenshot](Screenshot.jpg)
-![Portfolio Screenshot](path/to/your/image.png)
-![Portfolio Screenshot](path/to/your/image.png)
-![Portfolio Screenshot](path/to/your/image.png)
-![Portfolio Screenshot](path/to/your/image.png)
+![Portfolio Screenshot](Screenshot.jpg) <br>
+![Portfolio Screenshot](path/to/your/image.png) <br>
+![Portfolio Screenshot](path/to/your/image.png) <br>
+![Portfolio Screenshot](path/to/your/image.png) <br>
+![Portfolio Screenshot](path/to/your/image.png) <br>
 ## Features
 
 - Responsive design that looks great on all devices
